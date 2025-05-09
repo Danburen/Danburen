@@ -8,6 +8,7 @@ I'm Danburen,a normal 🧑‍🎓 college student in year 2 struggling not to be
 
 ### 🛠️Main Project:
 [VeloChatX](https://github.com/Danburen/VeloChatX) - A velocity project tends to distribute players' messages with rich additional features
+[WaterFun](https://github.com/Danburen/WaterFun/tree/main) - A new era diversified interactive forum.
 
 ### ☎️ Content Me:
 [QQ](https://qm.qq.com/q/fM0Pou10gE)
