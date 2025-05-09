@@ -8,11 +8,14 @@ I'm Danburen,a normal 🧑‍🎓 college student in year 2 struggling not to be
 
 ### 🛠️Main Project:
 [VeloChatX](https://github.com/Danburen/VeloChatX) - A velocity project tends to distribute players' messages with rich additional features
+
 [WaterFun](https://github.com/Danburen/WaterFun/tree/main) - A new era diversified interactive forum.
 
 ### ☎️ Content Me:
-[QQ](https://qm.qq.com/q/fM0Pou10gE)
-[Bilibili](https://space.bilibili.com/446337357?spm_id_from=333.1007.0.0)
+[QQ](https://qm.qq.com/q/fM0Pou10gE) / 
+[Bilibili](https://space.bilibili.com/446337357?spm_id_from=333.1007.0.0) /
+[outlook](hc2964361672@outlook.com) /
+[QQMail](2964361672@qq.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danburen&layout=compact)
 
