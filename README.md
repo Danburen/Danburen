@@ -7,7 +7,7 @@ I'm Danburen,a normal 🧑‍🎓 college student in year 2 struggling not to be
 🧱 Mainly studying in ☕Java & 💻 backend
 
 ### 🛠️Main Project:
-[VeloChatX](https://github.com/Danburen/VeloChatX) - A velocity project tends to distribute players' messages with rich additional features
+[VeloChatX](https://github.com/Danburen/VeloChatX) - A minecraft velocity server plugin tends to distribute players' messages with rich additional features
 
 [WaterFun](https://github.com/Danburen/WaterFun/tree/main):wrench: - A new era diversified interactive forum.
 
