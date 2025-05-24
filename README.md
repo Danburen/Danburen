@@ -11,7 +11,7 @@ I'm Danburen,a normal 🧑‍🎓 college student in year 2 struggling not to be
 
 [WaterFun](https://github.com/Danburen/WaterFun/tree/main):wrench: - A new era diversified interactive forum.
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,gradle,java,spring,windows,redis,mysql,powershell,vue,js,ts,css,html,idea,nuxtjs,nodejs,npm,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,gradle,java,spring,windows,redis,mysql,powershell,vue,js,ts,css,html,idea,nuxtjs,nodejs,npm,&perline=10)]()
 
 ### ☎️ Content Me:
 [QQ](https://qm.qq.com/q/fM0Pou10gE) / 
