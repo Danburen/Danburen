@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-I'm Danburen,a normal 🧑‍🎓 college student in year 2 struggling not to be left by life
+I'm Danburen,a normal 🧑‍🎓 college student in year 3 struggling not to be left by life
 
 📖 Major in Software Engineering
 
