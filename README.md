@@ -11,15 +11,11 @@ I'm Danburen,a normal 🧑‍🎓 college student in year 3 struggling not to be
 
 [WaterFun](https://github.com/Danburen/WaterFun/tree/main):wrench: - A new era diversified interactive forum.
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,gradle,java,spring,windows,redis,mysql,powershell,vue,js,ts,css,html,idea,nuxtjs,nodejs,npm,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,gradle,java,spring,windows,redis,mysql,powershell,vue,ts,idea,nuxtjs,npm,&perline=10)](https://skillicons.dev)
 
 ### ☎️ Content Me:
 [QQ](https://qm.qq.com/q/fM0Pou10gE) / 
 [Bilibili](https://space.bilibili.com/446337357?spm_id_from=333.1007.0.0) /
 [outlook](mailto:hc2964361672@outlook.com) /
 [QQMail](mailto:2964361672@qq.com)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danburen&layout=compact)
-
-[![Danburen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danburen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
