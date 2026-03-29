@@ -21,5 +21,5 @@ I'm Danburen,a normal 🧑‍🎓 college student in year 3 struggling not to be
 [outlook](mailto:hc2964361672@outlook.com) /
 [QQMail](mailto:2964361672@qq.com)
 
-![Stats](./profile/stats.svg)
+<img height="165" align="center" src="./profile/stats.svg" /> <img height="180" align="center" src="./profile/top-langs.svg" />
 
